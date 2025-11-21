@@ -21,8 +21,8 @@ This dashboard reflects strong skills in:
 
 ## Project Overview
 
-The **Swiggy Sales & Operations Dashboard** provides an end-to-end view of Swiggy’s performance across multiple business dimensions.  
-It uses a clean, Swiggy-themed color palette and structured layout to display insights clearly and professionally.
+The dashboard provides a comprehensive analysis of Swiggy’s sales, customer trends, and regional performance.
+Using a Swiggy-inspired color theme and a well-structured layout, it presents insights in a clean, professional, and easy-to-understand format.
 
 This dashboard helps analyze:
 - Monthly Sales Trends  
