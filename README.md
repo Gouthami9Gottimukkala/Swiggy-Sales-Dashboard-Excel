@@ -17,7 +17,7 @@ This dashboard reflects strong skills in:
 
 (Add your screenshot as `dashboard.png` in this section)
 
-![Swiggy Excel Dashboard]((https://github.com/Gouthami9Gottimukkala/Swiggy-Sales-Dashboard-Excel/blob/main/Dashboard.png))
+![Swiggy Excel Dashboard](https://github.com/Gouthami9Gottimukkala/Swiggy-Sales-Dashboard-Excel/blob/main/Dashboard.png)
 
 ---
 
