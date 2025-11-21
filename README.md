@@ -40,7 +40,7 @@ It serves as a practical example of converting raw Excel data into a **business-
 
 ## Dataset Information
 
-**File Used:** `Swiggy Raw Data Excel.xlsx`
+**File Used:** `Swiggy_Raw_Dataset.xlsx`
 
 The dataset contains:
 - Order Date  
@@ -163,6 +163,6 @@ This project stands out as a complete, portfolio-ready analytics solution, valua
 ## Author
 
 GOUTHAMI GOTTIMUKKALA
-(
+(https://github.com/Gouthami9Gottimukkala)
 
 ✨ Feel free to explore, fork, and contribute! 🚀
