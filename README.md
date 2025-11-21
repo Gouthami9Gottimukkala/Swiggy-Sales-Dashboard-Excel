@@ -1,4 +1,4 @@
-# Swiggy Sales & Operations Analysis – Excel Dashboard Project
+# Swiggy Sales Performance & Analytics Dashboard
 
 This repository contains a comprehensive and professionally designed **Excel Dashboard** built using Swiggy food delivery data.  
 The project demonstrates how raw data can be transformed into **interactive visuals, meaningful business insights, and a fully functional analytical dashboard** using Microsoft Excel alone.
@@ -140,8 +140,8 @@ This project is ideal for Data Analyst and Business Analyst portfolios.
 
 ## Files Included
 
-- `Swiggy Raw Data Excel.xlsx` – Raw dataset  
-- `dashboard.png` – Dashboard screenshot (add manually)  
+- `Swiggy_Raw_Dataset.xlsx` – Raw dataset  
+- `Dashboard.png` – Dashboard screenshot  
 - `README.md` – Full documentation  
 
 
